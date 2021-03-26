@@ -1,0 +1,52 @@
+Case 1:
+Info {'cost': 32.67, 'price': 45.0, 'inventory': 1200}
+
+Profit: $14796
+
+Case 2:
+Info {'cost': 0, 'price': 2, 'inventory': 100}
+
+Profit: $200
+
+Case 3:
+Info {'cost': 10, 'price': 8, 'inventory': 100}
+
+Profit: $-200
+
+Case 4:
+Info {'cost': 12.56, 'price': 12.99, 'inventory': 1000}
+
+Profit: $430
+
+Case 5:
+Info {'cost': 50, 'price': 72, 'inventory': 0}
+
+Profit: $0
+
+Case 6:
+Info {'cost': 100, 'price': 90, 'inventory': 0}
+
+Profit: $0
+
+Case 7:
+Info {'cost': 30.58, 'price': 29.74, 'inventory': 598}
+
+Profit: $-502
+
+Case 8:
+Info {'cost': 46841.36, 'price': 78241.12, 'inventory': 6454135}
+
+Profit: $202658290008
+
+Case 9:
+Info {'cost': 0, 'price': 0, 'inventory': 0}
+
+Profit: $0
+
+Case 10:
+Info {'cost': 1000, 'price': 1000, 'inventory': 100}
+
+Profit: $0
+
+
+Process finished with exit code 0

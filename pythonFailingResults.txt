@@ -1,0 +1,27 @@
+
+int_to_str Function:
+Case 1: From 0 to '0'
+Case 2: From 2 to '2'
+Case 3: From 4 to '4'
+Case 4: From 1234 to '1234'
+Case 5: From 6789 to '6789'
+Case 6: From 15766654 to '15766654'
+Case 7: From 666 to '666'
+Case 8: From 453154 to '453154'
+Case 9: From 118624 to '118624'
+Case 10: From 4841 to '4841'
+
+
+str_to_int Function:
+Case 1: From '0' to 0
+Case 2: From '2' to 2
+Case 3: From '123' to 123
+Case 4: From '456' to 456
+Case 5: From '789' to 789
+Case 6: From '54131684' to 54131684
+Case 7: From '654318' to 654318
+Case 8: From '161381358' to 161381358
+Case 9: From '841818' to 841818
+Case 10: From '147258' to 147258
+
+Process finished with exit code 0
